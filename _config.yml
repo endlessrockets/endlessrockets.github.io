@@ -107,10 +107,7 @@ social-links:
   - name: rubygems
     url-pattern: rubygems.org/profiles/__USERNAME__
     icon-class: far fa-2x fa-gem
-
-  - name: steam
-    url-pattern: steamcommunity.com/id/__USERNAME__
-
+    
   - name: youtube
     url-pattern: youtube.com/@__USERNAME__
 
