@@ -15,11 +15,11 @@ background: 'wooski computers.gif'
 #facebook: 'myfacebook'
 #twitter: #'mytwitter'
 #linkedin: 'mylinkedin'
-TikTok: 'endlessrockets'
-Instagram: 'endless_rockets'
+tiktok: 'endlessrockets'
+instagram: 'endless_rockets'
 #pinterest: 'mypinterest'
-YouTube: 'Endless_Rockets'
-Github-user: 'endlessrockets'
+youtube: 'Endless_Rockets'
+github-user: 'endlessrockets'
 #gitlab-user: ''
 #codepen: ''
 steam: 'EndlessRockets'
@@ -166,6 +166,11 @@ social-links:
     url-pattern: www.tiktok.com/@__USERNAME__
     url-scheme: 'https://'
     icon-class: fab fa-2x fa-tiktok
+
+      - name: steam
+    url-pattern: steamcommunity.com/profiles/__USERNAME__
+    url-scheme: 'https://'
+    icon-class: fab fa-2x fa-steam
 
 
     
