@@ -34,7 +34,7 @@ steam: 'EndlessRockets'
 #blog_url: 'myblog.blog.com'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
-discord: 'Moonlight'
+discord: 'https://discord.gg/vWCXAgvTFR'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, discord, blog_url, email]
 
