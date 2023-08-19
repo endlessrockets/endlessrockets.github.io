@@ -19,7 +19,7 @@ tiktok: 'endlessrockets'
 instagram: 'endless_rockets'
 #pinterest: 'mypinterest'
 youtube: 'Endless_Rockets'
-github-user: 'endlessrockets'
+github: 'endlessrockets'
 #gitlab-user: ''
 #codepen: ''
 steam: '76561198447052378'
@@ -37,7 +37,7 @@ steam: '76561198447052378'
 #messenger: 'myfbchat'
 discord: 'vWCXAgvTFR'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, discord, blog_url, email]
+social-links-order: [tiktok, steam, github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, discord, blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
