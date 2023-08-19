@@ -35,7 +35,7 @@ steam: '76561198447052378'
 #blog_url: 'myblog.blog.com'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
-discord: 'https://discord.gg/vWCXAgvTFR'
+discord: 'vWCXAgvTFR'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, discord, blog_url, email]
 
