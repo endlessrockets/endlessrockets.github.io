@@ -6,16 +6,17 @@ title: 'endlessrockets'
 description: 'I Code'
 
 # Images
-avatar: '87bffbcf98a8b703ba3b14202b80a422.png'
-background: 'goonz-wooski.gif'
-favicon: 'favicon.ico'
+avatar: 'cat.png'
+background: 'wooski computers.gif'
+#favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
 #facebook: 'myfacebook'
 #twitter: #'mytwitter'
 #linkedin: 'mylinkedin'
-#instagram: 'myinsta'
+tiktok: 'endlessrockets'
+instagram: 'endless_rockets'
 #pinterest: 'mypinterest'
 youtube: 'Endless_Rockets'
 github-user: 'endlessrockets'
@@ -160,3 +161,5 @@ social-links:
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
+
+   
