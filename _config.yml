@@ -4,7 +4,7 @@ remote_theme: AR9NS/tests@main
 
 # Title and tag line
 title: 'endlessrockets'
-description: 'I Code'
+#description: 'I Code'
 
 # Images
 avatar: 'transparent-picture.png'
@@ -23,7 +23,7 @@ youtube: 'Endless_Rockets'
 github-user: 'endlessrockets'
 #gitlab-user: ''
 #codepen: ''
-steam: '76561198447052378'
+#steam: '76561198447052378'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
