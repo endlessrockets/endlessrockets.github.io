@@ -23,7 +23,7 @@ youtube: 'Endless_Rockets'
 github-user: 'endlessrockets'
 #gitlab-user: ''
 #codepen: ''
-#steam: '76561198447052378'
+steam: '76561198447052378'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
@@ -38,7 +38,7 @@ github-user: 'endlessrockets'
 #messenger: 'myfbchat'
 discord: 'vWCXAgvTFR'
 
-social-links-order: [github-user, discord, youtube, tiktok, instagram, steam]
+social-links-order: [github-user, discord, youtube, tiktok, instagram, steam soundcloud]
 
 # Yaml manifest of supported social links
 # Requirements:
