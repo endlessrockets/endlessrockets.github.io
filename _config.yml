@@ -27,7 +27,7 @@ steam: '76561198447052378'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
-#reddit: ''
+reddit: 'endlessrockets'
 #rubygems: ''
 #medium:  ''
 #tumblr: 'mytumblr'
@@ -37,7 +37,7 @@ steam: '76561198447052378'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 discord: 'vWCXAgvTFR'
-reddit: 'endlessrockets'
+
 
 social-links-order: [discord, youtube, tiktok, reddit, steam,]
 
