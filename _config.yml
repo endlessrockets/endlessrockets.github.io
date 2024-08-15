@@ -173,7 +173,7 @@ social-links:
     url-scheme: 'https://'
     icon-class: fab fa-2x fa-steam
 
-      - name: roblox
+  - name: roblox
     url-pattern: roblox.com/users/__USERNAME__
     url-scheme: 'https://'
     icon-class: fab fa-2x fa-roblox
