@@ -3,11 +3,11 @@ remote_theme: epidrome/cover-card@main
 #remote_theme: AR9NS/tests@main
 
 # Title and tag line
-title: 'endlessrockets'
-description: 'social media'
+#title: 'endlessrockets'
+#description: 'social media'
 
 # Images
-avatar: 'output-onlinepngtools.png'
+#avatar: 'output-onlinepngtools.png'
 background: 'ezgif.com-video-to-gif-converter.gif'
 #favicon: 'favicon.ico'
 
