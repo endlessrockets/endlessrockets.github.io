@@ -37,8 +37,9 @@ steam: '76561198447052378'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 discord: 'vWCXAgvTFR'
+reddit: 'endlessrockets'
 
-social-links-order: [github-user, discord, youtube, tiktok, instagram, steam,]
+social-links-order: [discord, youtube, tiktok, reddit, steam,]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -167,6 +168,11 @@ social-links:
 
   - name: steam
     url-pattern: steamcommunity.com/profiles/__USERNAME__
+    url-scheme: 'https://'
+    icon-class: fab fa-2x fa-steam
+
+      - name: reddit
+    url-pattern: reddit.com/user/__USERNAME__
     url-scheme: 'https://'
     icon-class: fab fa-2x fa-steam
 
