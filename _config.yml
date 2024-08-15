@@ -38,7 +38,7 @@ steam: '76561198447052378'
 #messenger: 'myfbchat'
 discord: 'vWCXAgvTFR'
 
-social-links-order: [github-user, discord, youtube, tiktok, instagram, steam soundcloud]
+social-links-order: [github-user, discord, youtube, tiktok, instagram, steam, soundcloud]
 
 # Yaml manifest of supported social links
 # Requirements:
