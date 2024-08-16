@@ -8,7 +8,7 @@ description: 'social media'
 
 # Images
 avatar: 'transparent-picture.png'
-background: 'ezgif.com-video-to-gif-converter.gif'
+background: 'ezgif-7-53e7285546.gif'
 #favicon: 'favicon.ico'
 
 # Online profiles
@@ -174,7 +174,7 @@ social-links:
     icon-class: fab fa-2x fa-steam
 
   - name: roblox
-    url-pattern: roblox.com/users/__USERNAME__
+    url-pattern: roblox.com/users/286790524/__USERNAME__
     url-scheme: 'https://'
     icon-class: fab fa-2x fa-roblox
 
