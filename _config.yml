@@ -98,5 +98,5 @@ social-links:
   - name: roblox
     url-pattern: roblox.com/users/__USERNAME__/profile
     url-scheme: https://
-    icon-class: <i class="fab fa-roblox"></i>
+    icon-class: fab fa-2x fa-roblox
 
