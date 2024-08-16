@@ -41,7 +41,7 @@ roblox: 'RealEndlessRockets'
 telegram: 'crevrz'
 
 
-social-links-order: [roblox, discord, youtube, tiktok, reddit, telegram steam]
+social-links-order: [roblox, discord, youtube, tiktok, reddit, telegram, steam]
 
 # Yaml manifest of supported social links
 # Requirements:
