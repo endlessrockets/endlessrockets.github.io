@@ -47,6 +47,7 @@ social-links-order:
   - discord
   - youtube
   - tiktok
+  -instagram
   - reddit
   - telegram
   - steam
@@ -100,4 +101,8 @@ social-links:
     url-pattern: roblox.com/users/__USERNAME__/profile
     url-scheme: https://
     icon-class: fab fa-2x fa-roblox
+     - name: instagram
+    url-pattern: instagram.com/__USERNAME__/profile
+    url-scheme: https://
+    icon-class: fab fa-2x fa-instagram
 
