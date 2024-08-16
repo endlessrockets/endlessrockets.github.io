@@ -6,8 +6,8 @@ remote_theme: epidrome/cover-card@main
 
 
 # Title and tag line
-title: endlessrockets
-description: social media
+title: social media
+#description: 
 avatar: transparent-picture.png
 background: ezgif-7-53e7285546.gif
 
