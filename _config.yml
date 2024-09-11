@@ -30,8 +30,8 @@ steam: '76561198447052378'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 discord: 'vWCXAgvTFR'
-roblox-profile: '286790524'
-roblox-group: '4196538'
+roblox1: '286790524'
+roblox2: '4196538'
 #telegram: 'endlessrockets'
 #twitter: 'endless_rockets'
 spotify: 'h067x9uq92ipmhrf6jdqct9in'
@@ -107,15 +107,14 @@ social-links:
     url-pattern: open.spotify.com/user/__USERNAME__
     url-scheme: https://
     icon-class: fab fa-2x fa-spotify
-  - name: roblox-profile
-    url-pattern: roblox.com/users/__USERNAME__/profile
+  - name: roblox1
+    url-pattern: roblox.com/users/__USERNAME1__/profile
     url-scheme: https://
     icon-class: fas fa-2x fa-user
-  - name: roblox-group
-    url-pattern: roblox.com/groups/__GROUP_ID__
+  - name: roblox2
+    url-pattern: roblox.com/users/__USERNAME2__/profile
     url-scheme: https://
-    icon-class: fas fa-2x fa-users
-
+    icon-class: fas fa-2x fa-user
 
 
 
