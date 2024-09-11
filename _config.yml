@@ -106,11 +106,11 @@ social-links:
     url-pattern: reddit.com/user/__USERNAME__
   - name: telegram
     url-pattern: telegram.me/__USERNAME__
-      - name: spotify
+  - name: spotify
     url-pattern: open.spotify.com/user/__USERNAME__
     url-scheme: https://
     icon-class: fab fa-2x fa-spotify
-      - name: roblox
+  - name: roblox
     url-pattern: roblox.com/users/__USERNAME__/profile
     url-scheme: https://
     icon-class: fab fa-2x fa-roblox
