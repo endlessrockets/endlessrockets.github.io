@@ -28,7 +28,7 @@ steam: '76561198447052378'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
-#reddit: 'endlessrockets'
+reddit: 'endlessrockets'
 #rubygems: ''
 #medium:  ''
 #tumblr: 'mytumblr'
@@ -37,13 +37,12 @@ steam: '76561198447052378'
 #blog_url: 'myblog.blog.com'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
-#discord: 'vWCXAgvTFR'
+discord: 'vWCXAgvTFR'
 #roblox: '286790524'
-#telegram: 'SpyroClones'
+telegram: 'endlessrockets'
 
 
 social-links-order:
-  - roblox
   - discord
   - youtube
   - tiktok
