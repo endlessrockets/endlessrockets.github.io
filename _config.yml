@@ -28,7 +28,7 @@ steam: '76561198447052378'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
-reddit: 'endlessrockets'
+#reddit: 'endlessrockets'
 #rubygems: ''
 #medium:  ''
 #tumblr: 'mytumblr'
@@ -39,19 +39,19 @@ reddit: 'endlessrockets'
 #messenger: 'myfbchat'
 discord: 'vWCXAgvTFR'
 #roblox: '286790524'
-telegram: 'endlessrockets'
-x: 'endless_rockets'
+#telegram: 'endlessrockets'
+#twitter: 'endless_rockets'
+spotify: 'letrpaontheaux'
 
 
 social-links-order:
   - youtube
   - tiktok
   - instagram
+  - roblox
   - discord
   - steam
-  - x
-  - reddit
-  - telegram
+  - spotify
 
 
 
@@ -106,5 +106,15 @@ social-links:
     url-pattern: reddit.com/user/__USERNAME__
   - name: telegram
     url-pattern: telegram.me/__USERNAME__
+      - name: spotify
+    url-pattern: open.spotify.com/user/__USERNAME__
+    url-scheme: https://
+    icon-class: fab fa-2x fa-spotify
+      - name: roblox
+    url-pattern: roblox.com/users/__USERNAME__/profile
+    url-scheme: https://
+    icon-class: fab fa-2x fa-roblox
+
+
 
 
