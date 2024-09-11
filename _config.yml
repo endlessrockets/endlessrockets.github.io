@@ -15,7 +15,7 @@ background: ezgif-7-53e7285546.gif
 # Online profiles
 #dribbble: 'mydribbble'
 #facebook: 'myfacebook'
-twitter: 'endless_rockets'
+#twitter: 'endless_rockets'
 #linkedin: 'mylinkedin'
 tiktok: 'endlessrockets'
 instagram: 'crevrz'
@@ -40,7 +40,7 @@ reddit: 'endlessrockets'
 discord: 'vWCXAgvTFR'
 #roblox: '286790524'
 telegram: 'endlessrockets'
-#x: 'endless_rockets'
+x: 'endless_rockets'
 
 
 social-links-order:
@@ -98,8 +98,8 @@ social-links:
     url-pattern: steamcommunity.com/profiles/__USERNAME__
     url-scheme: https://
     icon-class: fab fa-2x fa-steam
-  - name: twitter
-    url-pattern: twitter.com/__USERNAME__
+  - name: x
+    url-pattern: x.com/__USERNAME__
     url-scheme: https://
     icon-class: fab fa-2x fa-twitter
   - name: reddit
