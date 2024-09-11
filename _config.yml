@@ -15,7 +15,7 @@ background: ezgif-7-53e7285546.gif
 # Online profiles
 #dribbble: 'mydribbble'
 #facebook: 'myfacebook'
-twitter: 'endless_rockets'
+#twitter: 'endless_rockets'
 #linkedin: 'mylinkedin'
 tiktok: 'endlessrockets'
 instagram: 'crevrz'
@@ -40,18 +40,18 @@ reddit: 'endlessrockets'
 discord: 'vWCXAgvTFR'
 #roblox: '286790524'
 telegram: 'endlessrockets'
-#x: 'endless_rockets'
+x: 'endless_rockets'
 
 
 social-links-order:
   - youtube
   - tiktok
   - instagram
-  - twitter
+  - discord
+  - steam
+  - x
   - reddit
   - telegram
-  - steam
-  - discord
 
 
 
