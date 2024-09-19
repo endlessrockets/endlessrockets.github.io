@@ -29,7 +29,7 @@ steam: '76561198447052378'
 #reddit: 'endlessrockets'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
-discord: 'vWCXAgvTFR'
+#discord: 'vWCXAgvTFR'
 roblox: '286790524'
 #telegram: 'endlessrockets'
 #twitter: 'endless_rockets'
@@ -44,7 +44,6 @@ social-links-order:
   - instagram
   - spotify
   - roblox
-  - discord
   - steam
 
 
