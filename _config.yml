@@ -26,12 +26,12 @@ steam: '76561198447052378'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
-#reddit: 'endlessrockets'
+reddit: 'endlessrockets'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
-#discord: 'vWCXAgvTFR'
-#roblox: '286790524'
-#telegram: 'endlessrockets'
+discord: 'vWCXAgvTFR'
+roblox: '286790524'
+telegram: 'endlessrockets'
 #twitter: 'endless_rockets'
 spotify: 'h067x9uq92ipmhrf6jdqct9in'
 
@@ -42,9 +42,12 @@ social-links-order:
   - youtube
   - tiktok
   - instagram
+  - discord
+  - telegram
+  - reddit
   - spotify
-  - roblox
   - steam
+  - roblox
 
 
 
