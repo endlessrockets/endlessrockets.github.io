@@ -26,7 +26,7 @@ steam: '76561198447052378'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
-reddit: 'endlessrockets'
+#reddit: 'endlessrockets'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 discord: 'vWCXAgvTFR'
@@ -43,10 +43,10 @@ social-links-order:
   - tiktok
   - instagram
   - discord
+  - steam
   - telegram
   - reddit
   - spotify
-  - steam
   - roblox
 
 
