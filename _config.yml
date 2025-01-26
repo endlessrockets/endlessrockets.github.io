@@ -112,6 +112,10 @@ social-links:
     url-pattern: roblox.com/users/__USERNAME__/profile
     url-scheme: https://
     icon-class: fas fa-2x fa-user
+  - name: roblox-group
+    url-pattern: roblox.com/groups/__USERNAME__/group
+    url-scheme: https://
+    icon-class: fas fa-2x fa-users
 
 
 
