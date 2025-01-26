@@ -111,8 +111,5 @@ social-links:
   - name: rockets-sportswear
     url-pattern: roblox.com/groups/__USERNAME__/group
     url-scheme: https://
-    icon-class: fas fa-2x fa-shirt
-
-
-
+    icon-class: fas fa-2x fa-tshirt
 
