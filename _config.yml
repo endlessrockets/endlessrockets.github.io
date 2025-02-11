@@ -1,7 +1,7 @@
 ---
 
 # Theme
-remote_theme: 
+remote_theme: epidrome/cover-card@main
 #remote_theme: kgbe/tests@main
 
 
