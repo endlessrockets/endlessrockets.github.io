@@ -7,7 +7,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: endlessrockets
-description: social media
+#description: social media
 avatar: transparent-picture.png
 background: Tyreek-Hill.gif
 
