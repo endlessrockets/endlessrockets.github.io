@@ -35,6 +35,7 @@ telegram: 'endlessrockets'
 #twitter: 'endless_rockets'
 spotify: 'h067x9uq92ipmhrf6jdqct9in'
 #rockets-sportswear: '4196538'
+twitch: 'endlessrockets'
 
 
 
@@ -48,6 +49,7 @@ social-links-order:
   - spotify
   - telegram
   - rockets-sportswear
+  - twitch
 
 
 
@@ -96,12 +98,6 @@ social-links:
     url-pattern: steamcommunity.com/profiles/__USERNAME__
     url-scheme: https://
     icon-class: fab fa-2x fa-steam
-  - name: x
-    url-pattern: x.com/__USERNAME__
-    url-scheme: https://
-    icon-class: fab fa-2x fa-twitter
-  - name: reddit
-    url-pattern: reddit.com/user/__USERNAME__
   - name: telegram
     url-pattern: telegram.me/__USERNAME__
   - name: spotify
@@ -112,4 +108,9 @@ social-links:
     url-pattern: roblox.com/groups/__USERNAME__/group
     url-scheme: https://
     icon-class: fas fa-2x fa-tshirt
+  - name: twitch
+    url-pattern: twitch.tv/__USERNAME__
+    url-scheme: https://
+    icon-class: fab fa-2x fa-twitch
+
 
